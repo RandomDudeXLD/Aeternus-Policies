@@ -2,7 +2,7 @@
 Omicron's Terms of Service and Privacy Policy.
 
 # Terms of Service
-Last Updated: November 22nd, 2025
+Last Updated: March 17th, 2026
 
 **1. Using the App**
 
@@ -12,14 +12,14 @@ By using the app (whom we'll hereby refer to as Omicron from now on) you agree t
    
 - *User Installation:* Users may add Omicron to their personal Discord accounts by following the provided installation links or procedures (App Installation).
 
-- *Guild Installation:* Administrators can invite Omicron to their Discord servers (guilds) using the provided invite links, granting the bot certain permissions as needed.
+- *Guild Installation:* Users with the required permissions can invite Omicron to their Discord servers (guilds) using the provided invite links, granting the bot certain permissions as needed.
 
 
 **2. User Responsibilities**
 
 You are expected to comply with Discord's Terms of Service and Community Guidelines while using Omicron. The following actions are prohibited:
 
-- *Exploitation or Abuse:* Any attempts to crash, slow down or disrupt the app's functionality is not allowed.
+- *Exploitation or Abuse:* Any attempts to crash, slow down or disrupt the app's functionality are not allowed.
 - *Unauthorized Access:* You may not attempt to obtain unauthorized access to the app's data, features or backend systems.
 
 **3. App Availability and Changes**
@@ -43,7 +43,7 @@ The Terms of Service may be updated at any time. Continued use of Omicron after 
 
 
 # Privacy Policy
-Last Updated: November 22nd, 2025
+Last Updated: March 17th, 2026
 
 **1. What data is collected?**
 
@@ -51,7 +51,7 @@ Omicron collects and stores only the necessary data in order for commands to fun
  
 - *Server-related data:* Server IDs, channel IDs, roles, role IDs and configured settings.
 - *User-related data:* User IDs, usernames and preferences.
-- *Messages:* Logged (deleted) messages.
+- *Messages:* Logged (deleted) messages, and reasons (text-based) used for the Reminder command.
 
 Omicron only stores the necessary content for operation. 
 
