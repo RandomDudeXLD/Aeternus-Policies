@@ -1,16 +1,16 @@
 # Aeternus-Policies
-Omicron's Terms of Service and Privacy Policy.
+Aeternus's Terms of Service and Privacy Policy.
 
 # Terms of Service
 Last Updated: March 25th, 2026
 
 **1. Using the App**
 
-By using the app (whom we'll hereby refer to as Aeternus from now on) you agree to these Terms of Service as well as the Privacy Policy. If you do not agree with either, please remove Omicron from any servers you manage and revoke its access to your authorized apps.
+By using the app (whom we'll hereby refer to as Aeternus from now on) you agree to these Terms of Service as well as the Privacy Policy. If you do not agree with either, please remove Aeternus from any servers you manage and revoke its access to your authorized apps.
 
 **2. User and Guild (Server) Installation**
    
-- *User Installation:* Users may add Omicron to their personal Discord accounts by following the provided installation links or procedures (App Installation).
+- *User Installation:* Users may add Aeternus to their personal Discord accounts by following the provided installation links or procedures (App Installation).
 
 - *Guild Installation:* Users with the required permissions can invite Aeternus to their Discord servers (guilds) using the provided invite links, granting the bot certain permissions as needed.
 
