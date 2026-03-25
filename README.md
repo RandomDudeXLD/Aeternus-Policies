@@ -43,7 +43,7 @@ The Terms of Service may be updated at any time. Continued use of Aeternus after
 
 
 # Privacy Policy
-Last Updated: March 17th, 2026
+Last Updated: March 25th, 2026
 
 **1. What data is collected?**
 
