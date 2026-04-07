@@ -2,7 +2,7 @@
 Aeternus's Terms of Service and Privacy Policy.
 
 # Terms of Service
-Last Updated: March 25th, 2026
+Last Updated: April 7th, 2026
 
 **1. Using the App**
 
@@ -27,7 +27,7 @@ You are expected to comply with Discord's Terms of Service and Community Guideli
 Aeternus is provided "as is" without guarantees of uptime, functionality or availability. As such, the following apply:
 
 - Features may be added, removed or changed at any time without prior notice.
-- Aeternus' owner (whom we'll refer to as Random from now on) reserves the right to block users or servers from accessing the app for any reason.
+- Aeternus' owner (whom we'll refer to as Cryospero from now on) reserves the right to block users or servers from accessing the app for any reason.
 
 **4. Data Collection and Usage**
 
@@ -35,7 +35,7 @@ Aeternus collects and stores data as outlined in the Privacy Policy. By using Ae
 
 **5. Contact and Support**
 
-Aeternus is owned and operated by sir_random87. Support is only available by contacting him via Discord.
+Aeternus is owned and operated by "cryospero". Support is only available by contacting him via Discord.
 
 **6. Changes to These Terms**
 
@@ -43,7 +43,7 @@ The Terms of Service may be updated at any time. Continued use of Aeternus after
 
 
 # Privacy Policy
-Last Updated: March 25th, 2026
+Last Updated: April 7th, 2026
 
 **1. What data is collected?**
 
@@ -51,7 +51,7 @@ Aeternus collects and stores only the necessary data in order for commands to fu
  
 - *Server-related data:* Server IDs, channel IDs, roles, role IDs and configured settings.
 - *User-related data:* User IDs, usernames and preferences.
-- *Messages:* Logged (deleted) messages, and reasons (text-based) used for the Reminder command.
+- *Messages:* Logged (deleted) messages, and text-based messages used for the Reminder and AFK command.
 
 Aeternus only stores the necessary content for operation. 
 
@@ -62,6 +62,7 @@ This data is collected to ensure app functionality as well as a smooth and perso
 - Maintain internal per-server moderation lists to keep users protected.
 - Store the settings and preferences of users and servers.
 - Enable core app functionality.
+- Deny app access to users with ill intent.
 
 **3. How data is stored and protected**
 
@@ -72,7 +73,7 @@ Your data isn't sold or shared to any third-parties.
 
 Your data is private and only accesible to:
 
-- The app owner (Random), the only person with access to stored data.
+- The app owner (Cryospero), the only person with access to stored data.
 
 **5. Data Removal**
 
