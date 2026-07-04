@@ -1,59 +1,59 @@
-# Aeternus-Policies
-Aeternus's Terms of Service and Privacy Policy.
+# PRWS-Policies
+PRWS's Terms of Service and Privacy Policy.
 
 # Terms of Service
-Last Updated: April 7th, 2026
+Last Updated: July 4th, 2026
 
 **1. Using the App**
 
-By using the app (whom we'll hereby refer to as Aeternus from now on) you agree to these Terms of Service as well as the Privacy Policy. If you do not agree with either, please remove Aeternus from any servers you manage and revoke its access to your authorized apps.
+By using the app (whom we'll hereby refer to as PRWS from now on) you agree to these Terms of Service as well as the Privacy Policy. If you do not agree with either, please remove PRWS from any servers you manage and revoke its access to your authorized apps.
 
 **2. User and Guild (Server) Installation**
    
-- *User Installation:* Users may add Aeternus to their personal Discord accounts by following the provided installation links or procedures (App Installation).
+- *User Installation:* Users may add PRWS to their personal Discord accounts by following the provided installation links or procedures (App Installation).
 
-- *Guild Installation:* Users with the required permissions can invite Aeternus to their Discord servers (guilds) using the provided invite links, granting the bot certain permissions as needed.
+- *Guild Installation:* Users with the required permissions can invite PRWS to their Discord servers (guilds) using the provided invite links, granting the bot certain permissions as needed.
 
 
 **2. User Responsibilities**
 
-You are expected to comply with Discord's Terms of Service and Community Guidelines while using Aeternus. The following actions are prohibited:
+You are expected to comply with Discord's Terms of Service and Community Guidelines while using PRWS. The following actions are prohibited:
 
 - *Exploitation or Abuse:* Any attempts to crash, slow down or disrupt the app's functionality are not allowed.
 - *Unauthorized Access:* You may not attempt to obtain unauthorized access to the app's data, features or backend systems.
 
 **3. App Availability and Changes**
 
-Aeternus is provided "as is" without guarantees of uptime, functionality or availability. As such, the following apply:
+PRWS is provided "as is" without guarantees of uptime, functionality or availability. As such, the following apply:
 
 - Features may be added, removed or changed at any time without prior notice.
-- Aeternus' owner (whom we'll refer to as Cryospero from now on) reserves the right to block users or servers from accessing the app for any reason.
+- PRWS' owner (whom we'll refer to as Cryospero from now on) reserves the right to block users or servers from accessing the app for any reason.
 
 **4. Data Collection and Usage**
 
-Aeternus collects and stores data as outlined in the Privacy Policy. By using Aeternus, you consent to the collection and usage of this data as described. 
+PRWS collects and stores data as outlined in the Privacy Policy. By using PRWS, you consent to the collection and usage of this data as described. 
 
 **5. Contact and Support**
 
-Aeternus is owned and operated by "cryospero". Support is only available by contacting him via Discord.
+PRWS is owned and operated by "cryospero". Support is only available by contacting him via Discord.
 
 **6. Changes to These Terms**
 
-The Terms of Service may be updated at any time. Continued use of Aeternus after any changes are appended indicates your acceptance of the updated terms.
+The Terms of Service may be updated at any time. Continued use of PRWS after any changes are appended indicates your acceptance of the updated terms.
 
 
 # Privacy Policy
-Last Updated: April 7th, 2026
+Last Updated: July 4th, 2026
 
 **1. What data is collected?**
 
-Aeternus collects and stores only the necessary data in order for commands to function properly. This includes:
+PRWS collects and stores only the necessary data in order for commands to function properly. This includes:
  
 - *Server-related data:* Server IDs, channel IDs, roles, role IDs and configured settings.
 - *User-related data:* User IDs, usernames and preferences.
 - *Messages:* Logged (deleted) messages, and text-based messages used for the Reminder and AFK command.
 
-Aeternus only stores the necessary content for operation. 
+PRWS only stores the necessary content for operation. 
 
 **2. Why this data is collected**
 
@@ -73,12 +73,12 @@ Your data isn't sold or shared to any third-parties.
 
 Your data is private and only accesible to:
 
-- The app owner (Cryospero), the only person with access to stored data.
+- The app owner (cryospero), the only person with access to stored data.
 
 **5. Data Removal**
 
-The data collected by Aeternus may be removed by asking for a data removal request to the owner of Aeternus.
+The data collected by PRWS may be removed by asking for a data removal request to the owner of PRWS.
 
 **6. Changes to our policy**
 
-This Privacy Policy may be updated at any given time. Continued use of Aeternus following any updates means you accept the revised Privacy Policy, and thereby consent to any changes made. 
+This Privacy Policy may be updated at any given time. Continued use of PRWS following any updates means you accept the revised Privacy Policy, and thereby consent to any changes made. 
